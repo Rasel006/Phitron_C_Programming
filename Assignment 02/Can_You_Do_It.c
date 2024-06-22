@@ -2,7 +2,7 @@
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
-
+// test push code
 int main() {
     int n, i;
     scanf("%d", &n);
